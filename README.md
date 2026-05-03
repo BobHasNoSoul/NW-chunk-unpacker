@@ -5,5 +5,3 @@ USAGE
 -----
   # Extract all chunk files (76k+ files with proper paths):
   python nw_extract.py foldercacheClumps.txt <MasterDisk_folder> [output_dir]
-
-"""
